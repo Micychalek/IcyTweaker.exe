@@ -11,7 +11,7 @@ Icy Tweaker, is a windows platform optimizer that improves your personal compute
 
 
 
-![App Screenshot](https://cdn.upload.systems/uploads/pjo4t0Dd.gif)
+![App Screenshot](https://cdn.upload.systems/uploads/XlrArS3r.png)
 
 
 ## Authors
